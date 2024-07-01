@@ -1,4 +1,4 @@
-package Projects.MazeSolver.Board;
+package Projects.Maze_Solver.Board;
 
 import java.awt.BorderLayout;
 import java.awt.Color;

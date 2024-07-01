@@ -1,6 +1,6 @@
-package Projects.MazeSolver.Board;
+package Projects.Maze_Solver.Board;
 
-import Projects.MazeSolver.Algo.*;
+import Projects.Maze_Solver.Algo.*;
 import generics.Pair;
 
 import java.awt.Color;

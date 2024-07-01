@@ -1,4 +1,4 @@
-package Projects.MazeSolver.Algo;
+package Projects.Maze_Solver.Algo;
 
 import java.awt.Color;
 import java.util.ArrayList;
@@ -8,7 +8,7 @@ import java.util.Queue;
 import javax.swing.SwingUtilities;
 import javax.swing.SwingWorker;
 
-import Projects.MazeSolver.Board.MyFrame;
+import Projects.Maze_Solver.Board.MyFrame;
 import generics.Pair;
 
 public class BFS extends SwingWorker<Void, Void> {
