@@ -48,7 +48,7 @@ Maze Solver is a Java application that demonstrates how to solve mazes using dif
 Here's a brief example of how to use the application:
 
 1. Set up the maze by clicking on cells to define obstacles, start, and end point.
-2. Click "BFS" under "Algorithm" tab to initiate the BFS algorithm.
+2. Click "BFS/A*" under "Algorithm" tab to initiate the BFS algorithm.
 3. Observe as the cells are colored to show the BFS traversal and the shortest path found.
 
 ### Built With
