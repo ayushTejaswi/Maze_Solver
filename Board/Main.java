@@ -18,6 +18,11 @@ public class Main {
     public static void bfs(ArrayList<ArrayList<Integer>> board, MyFrame frame) {
         new BFS(board, frame).execute();
     }
+
+    public static void aStar(ArrayList<ArrayList<Integer>> board, MyFrame frame) {
+        new AStar(board, frame).execute();
+    }
+
 }
 
 class BFSWorker extends SwingWorker<Void, Void> {

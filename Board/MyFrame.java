@@ -192,6 +192,8 @@ public class MyFrame extends JFrame implements ActionListener {
         }
         if (e.getSource() == a_) {
             System.out.println("A* Called");
+            ArrayList<ArrayList<Integer>> board = board();
+            Main.aStar(board, this);
         }
         if (e.getSource() == newB) {
             this.dispose();
